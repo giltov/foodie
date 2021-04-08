@@ -1,0 +1,16 @@
+// # is an id 
+// . is a class name.
+#app {
+    height: 100vh;
+    #background {
+        background-color: bisque;
+
+        .navbar {
+            #navbar-options {
+                margin-left: auto;
+            }
+        }
+
+
+    }
+}
