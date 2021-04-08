@@ -3,14 +3,14 @@
 #app {
     height: 100vh;
     #background {
-        background-color: bisque;
-
         .navbar {
+            #website-icon{
+                height: 3em;
+                margin-right: .5em;
+            }
             #navbar-options {
                 margin-left: auto;
             }
         }
-
-
     }
 }
