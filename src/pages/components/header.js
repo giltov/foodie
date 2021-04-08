@@ -16,6 +16,9 @@ export default class Header extends React.Component {
                             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="explore">Explore</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="about-us">About Us</a>
                         </li>
                         <li class="nav-item">
